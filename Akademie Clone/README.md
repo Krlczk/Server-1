@@ -1,2 +1,0 @@
-# Akademie Clone
-CD
